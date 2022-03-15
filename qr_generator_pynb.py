@@ -23,3 +23,7 @@ url = pyqrcode.create(github)
   
 # Creaed and saving the png file
 url.svg("avdhesh.svg", scale = 8)
+
+
+#OUTPUT of the above code is in avdhesh (1).svg
+# The output file will be generated In the same directory where your Python file is.
